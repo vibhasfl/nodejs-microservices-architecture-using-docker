@@ -11,6 +11,8 @@ Navigate to
 -  http://localhost:8080/bar bar to view bar microservice
 
 
+Diagram :
+![Microservice](MicroservicesDiagram.png)
 
 Note : 
 This is just a sample project which shows how microservices can be implemented for bigger projects.
