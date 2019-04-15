@@ -12,7 +12,7 @@ Navigate to
 
 
 Diagram :
-![Microservice](MicroservicesDiagram.png)
+![Microservice](https://github.com/vibhasfl/nodejs-microservices-architecture-using-docker/blob/master/MicroserviceDiagram.png)
 
 Note : 
 This is just a sample project which shows how microservices can be implemented for bigger projects.
